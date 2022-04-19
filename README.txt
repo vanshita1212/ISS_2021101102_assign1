@@ -39,7 +39,7 @@ Q.5    command to compile:  ./5.sh
        
        
        Git repository link:
-       https://github.com/vanshita1212/ISS_Lab1_2021101102
+       https://github.com/vanshita1212/ISS_2021101102_assign1
        
        
      
