@@ -24,13 +24,14 @@ Q.3    command to compile:  ./3.sh
        
        
 Q.4    command to compile:  ./4.sh
-       Please enter comma-seprated numbers after entering the above command and press enter to display sorted comma-separated numbers on terminal.
+       Please enter comma-separated numbers after entering the above command and press enter to display sorted(ascending order) comma-separated numbers on terminal.
        ->Used "," as delimiter in input data (integers separated by commas) 
-       ->Shell script will display output also in space separated integers format.
+       ->Shell script will display output in space separated integers format as well.
        
        
        
-Q.5    command to compile:  ./5.sh   
+Q.5    command to compile:  ./5.sh
+        Please provide any String as input after running the above command and press Enter.
        ->Used a loop to perform some operation on each character of input string, for displaying required output for all three parts.
        
        
